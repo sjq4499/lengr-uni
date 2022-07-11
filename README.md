@@ -15,13 +15,13 @@
 
 ### 完整版预览
 
-![](https://gitee.com/sjq4499/lengr-uni/raw/master/gh_158277495b3f_430.png)
+![](https://gitee.com/sjq4499/lengr-uni/raw/master/gh_158277495b3f_430.jpg)
 
 ### 图片预览
 
 ![](https://gitee.com/sjq4499/lengr-uni/raw/master/1.png)
-![](https://gitee.com/sjq4499/lengr-uni/blob/master/2.png)
-![](https://gitee.com/sjq4499/lengr-uni/blob/master/3.png)
+![](https://gitee.com/sjq4499/lengr-uni/raw/master/2.png)
+![](https://gitee.com/sjq4499/lengr-uni/raw/master/3.png)
 
 ### 联系方式
 
