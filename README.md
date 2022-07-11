@@ -3,7 +3,7 @@
  * @Author: sjq
  * @Date: 2022-07-11 16:06:53
  * @LastEditors: sjq
- * @LastEditTime: 2022-07-11 16:37:42
+ * @LastEditTime: 2022-07-11 16:45:34
 -->
 
 # uni-app+vue冷r空间(微信小工具)
@@ -15,13 +15,13 @@
 
 ### 完整版预览
 
-![](https://gitee.com/sjq4499/lengr-uni/raw/master/gh_158277495b3f_430.jpg)
+![](./gh_158277495b3f_430.jpg)
 
 ### 图片预览
 
-![](https://gitee.com/sjq4499/lengr-uni/raw/master/1.png)
-![](https://gitee.com/sjq4499/lengr-uni/raw/master/2.png)
-![](https://gitee.com/sjq4499/lengr-uni/raw/master/3.png)
+![](./1.png)
+![](./2.png)
+![](./3.png)
 
 ### 联系方式
 
